@@ -1,5 +1,4 @@
-# Presentation: The Role of Bioreactors in Tissue Engineering
-## (And Using Jupyter Notebooks to Teach the Fundamental Concepts of Bioreactors and Mass Transfer More Effectively)
+# Presentation: The Role of Bioreactors in Tissue Engineering <sub><sup>(And Using Jupyter Notebooks to Teach the Fundamental Concepts of Bioreactors and Mass Transfer More Effectively)</sub></sup>
 
 This repository contains the LaTeX source files of my presentation at KU Leuven in November 2018. The presentation is available to view using the online Jupyter viewer at [this link](http://nbviewer.jupyter.org/github/mbarzegary/presentation_bioreactors2018/blob/master/presentation.pdf) (generated using nbviewer.jupyter.org).
 
